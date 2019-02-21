@@ -14,5 +14,5 @@ public class MainActivity extends AppCompatActivity {
     Toast toast = Toast.makeText(getApplicationContext(),
             "Пора покормить кота!", Toast.LENGTH_SHORT);
     Toast toast2 = Toast.makeText(getApplicationContext(),
-            "Пора покормить кота!", Toast.LENGTH_SHORT);
+            "Пора покормить собаку!", Toast.LENGTH_SHORT);
 }
