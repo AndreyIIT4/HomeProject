@@ -12,6 +12,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     Toast toast = Toast.makeText(getApplicationContext(),
+<<<<<<< .merge_file_a02880
             "Пора покормить кота!", Toast.LENGTH_SHORT);
 
+=======
+            "Всем привет!!!", Toast.LENGTH_SHORT);
+>>>>>>> .merge_file_a07320
 }
